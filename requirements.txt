@@ -1,0 +1,6 @@
+Flask==1.0.2
+Flask-Cors==3.0.6
+Flask-RESTful==0.3.6
+jsonschema==2.6.0
+jwcrypto==0.6.0
+PyJWT==1.6.4
